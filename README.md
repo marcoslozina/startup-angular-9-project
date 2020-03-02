@@ -1,6 +1,8 @@
-# Adminpro
+## Author: Marcos Raimundo Lozina
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
+## Startup Angular 9 project
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
 
 ## Development server
 
