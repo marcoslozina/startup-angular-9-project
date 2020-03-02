@@ -2,7 +2,10 @@
 
 ## Startup Angular 9 project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0, but was migrated to the version 1.9.0. First download the project and run 
+## npm install
+## ng config -g cli.warnings.versionMismatch false
+## ng update @angular/cli --migrate-only --from=1.5.0
 
 ## Development server
 
